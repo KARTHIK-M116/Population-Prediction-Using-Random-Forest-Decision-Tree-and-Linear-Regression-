@@ -36,4 +36,4 @@ The notebook provides:
 - Performance comparison of different models
 
 ## Author
-[Karthik M.](https://github.com/yourgithubprofile)
+[Karthik M.](https://github.com/KARTHIK-M116)
